@@ -1,0 +1,11 @@
+table{
+    margin-left: 80px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-collapse:collapse;
+    border: 1px solid grey;
+    font-size: 13px;
+}
+table td{
+    padding: 3px;
+}

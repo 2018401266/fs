@@ -1,0 +1,31 @@
+form{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+h4{
+    font-family: "微软雅黑";
+    font-size: 25px;
+}
+th{
+    font-family: "微软雅黑 Light";
+    font-size: 15px;
+}
+.tn-textbox{
+    height: 30px;
+    width: 180px;
+    border: #d2d2d2 solid 1px;
+    border-radius: 10px;
+    outline: none;
+}
+.save,.cancel{
+    height: 30px;
+    width: 70px;
+    font-family: "微软雅黑";
+    color: cadetblue;
+    font-size: 15px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    outline: none;
+}
